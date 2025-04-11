@@ -1,73 +1,101 @@
-# Welcome to your Lovable project
 
-## Project info
 
-**URL**: https://lovable.dev/projects/8ce0af7f-db72-4c0e-b7d4-2492961452d0
+# NURAL – Invest Smarter, Grow Faster  
+**Live Demo**: [https://www.thenural.com/](https://www.thenural.com/)
 
-## How can I edit this code?
+NURAL is a modern investment and trading platform built with **Next.js (TypeScript)**, designed to empower individuals and businesses with smarter, more personalized financial strategies. From trading education to asset management, NURAL offers comprehensive services that bridge the gap between finance and cutting-edge technology.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🚀 Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8ce0af7f-db72-4c0e-b7d4-2492961452d0) and start prompting.
+- 💼 **Personalized Investment Planning**
+- 🎯 **One-on-One Trading Coaching**
+- 📈 **Professional Asset Management**
+- 📚 **Comprehensive Trading Education**
+- 🧠 **Strategy Development Tailored to You**
+- 🧑‍🤝‍🧑 **Collaborative Group Workshops**
+- 📊 **Performance Tracking & Analytics**
+- 🔐 **Secure & Scalable Infrastructure**
+- 🌐 **Fully Responsive & SEO-Optimized Design**
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 📸 Live Screenshots
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+![image](https://github.com/user-attachments/assets/27089780-14a9-4905-a451-f0dde3a976f3)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+*Modern landing experience for finance professionals*
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## ⚙️ Tech Stack
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+| Frontend         | Styling        | Backend         | Tools & Deployment  |
+|------------------|----------------|------------------|----------------------|
+| Next.js (TypeScript) | Tailwind CSS     | Appwrite (Optional Backend) | Vercel |
+| React Hooks       | Custom Components | EmailJS / API integrations | GitHub |
+| Static + SSR Pages | SEO Meta Tags | – | – |
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+## 🧠 How It Works
+
+1. Visitors explore services, read about offerings, and get insights into trading and investing.
+2. Users can **submit an enquiry** or **schedule a meeting** directly via the website.
+3. Back-end integrations (optional) handle form submissions, scheduling, and emails.
+4. Built-in scalability ensures it can expand to support user logins, portfolios, and dashboards.
+
+---
+
+## 📁 Folder Structure
+
+```
+nural/
+├── app/
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│   ├── utils/
+│   └── public/
+├── tailwind.config.ts
+├── next.config.js
+├── tsconfig.json
+└── .env.local
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## ✨ Key Highlights
 
-**Use GitHub Codespaces**
+- 📈 Fully branded UI inspired by modern fintech platforms
+- 🔍 SEO-optimized pages with meta descriptions
+- 🧩 Modular architecture using reusable components
+- 📞 Built-in lead capture system (contact/enquiry forms)
+- 💡 Clean code structure and scalable Next.js app directory
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 🎯 Upcoming Features
 
-This project is built with:
+- 🧑‍💼 Admin panel for service inquiries and lead tracking
+- 📬 Email notifications and CRM integration
+- 🗓️ Smart scheduling with calendar sync
+- 💹 Interactive blog with investment insights
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 👨‍💻 Author
 
-Simply open [Lovable](https://lovable.dev/projects/8ce0af7f-db72-4c0e-b7d4-2492961452d0) and click on Share -> Publish.
+**Rohit Pottavathini**  
+Developer | Designer | Builder  
+📩 [rowork30@gmail.com](mailto:rowork30@gmail.com)  
+🌐 [thenural.com](https://www.thenural.com)  
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes it is!
+## 📃 License
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+This project is licensed under the [MIT License](LICENSE).
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
